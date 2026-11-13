@@ -47,10 +47,6 @@ Para medir a variabilidade da própria marcação, 30 imagens foram marcadas uma
 
 ### Link para a versão disponibilizada do dataset
 
-Versão anotada usada no projeto: **[INSERIR LINK]**
-
-Ela contém as imagens pré-processadas (`para_anotar/*.png`), a planilha `chave.csv` (origem, paciente, idade, lateralidade, espaçamento de pixel de cada imagem) e os arquivos de pontos `pontos6_carpo.json`, `pontos_arco.json`, `pontos11_repet_isa.json`, `chave_repet_isa.json` e `pontos_casos_positivos.json`.
-
 Bases originais: [GRAZPEDWRI-DX no Kaggle](https://www.kaggle.com/datasets/jasonroggy/grazpedwri-dx) e [MURA v1 no Kaggle](https://www.kaggle.com/datasets/tommyngx/mura-v1).
 
 ## Modelo de aprendizado de máquina
